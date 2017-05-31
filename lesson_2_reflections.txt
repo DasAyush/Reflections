@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+->   A repository is a folder which keeps record of all the version of given files in it.
+We need it for future use.For example, if we want to look up a change we made to the file
+in the past.It helps us explore our new ideas with more confidence without the fear of 
+breaking the code.
