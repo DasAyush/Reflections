@@ -26,3 +26,6 @@ What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
 .?
+
+*'git diff' shows us the latest change made to the files that have not been added to the
+staging area.
