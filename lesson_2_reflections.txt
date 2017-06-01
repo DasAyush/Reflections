@@ -26,6 +26,10 @@ in English.
 
 How do the diagrams help you visualize the branch structure?
 
+->    It helps us to visualize which commits are associated with which branches.Also,it makes 
+us aware which commits are reachable and which are not.And,we can also a create a new branch at
+an unreachable commit.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
