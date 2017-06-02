@@ -33,6 +33,10 @@ an unreachable commit.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+->     The result of it is that we are now able to reach all of the reachable commits with the
+help of just the master branch.Now,we do not need any other branch with a label.The diagram 
+helps us in visualizing the reachable commits.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
