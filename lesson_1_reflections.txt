@@ -37,7 +37,8 @@ changes that were made in first version to obtain the second version of the file
 How might using version control make you more confident to make changes that
 could break something?
 
-->    To checkout which bug was introduced in which commit.
+->    To checkout which bug was introduced in which commit.It gives us a comfort zone where we can
+rest assured that our earlier working version is still secure on the system.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
